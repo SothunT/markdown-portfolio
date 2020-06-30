@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- *Skill 1*
+- **Skill 2**
+- ***Skill 3***
+- **Skill *4***
